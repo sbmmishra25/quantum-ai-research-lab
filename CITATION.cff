@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository in academic work, please cite it."
+title: "Quantum AI Research Lab"
+type: software
+authors:
+  - family-names: Mishra
+    given-names: Shubham
+repository-code: "https://github.com/sbmmishra25/quantum-ai-research-lab"
+license: MIT
+abstract: "Reproducible implementations and research experiments in Quantum Computing, Quantum Machine Learning, and Quantum-Enhanced AI."
+keywords:
+  - quantum computing
+  - quantum machine learning
+  - quantum AI
+  - QML
+  - hybrid quantum-classical learning
+  - quantum optimization
+  - trustworthy AI
