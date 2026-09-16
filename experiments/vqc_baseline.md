@@ -21,7 +21,7 @@ This synthetic dataset is intentionally small and should be treated as a researc
 - COBYLA optimizer
 - StatevectorSampler with a fixed seed
 
-Qiskit Machine Learning currently provides `VQC` as a high-level variational quantum classifier and supports Qiskit 2.x-compatible primitives. The project pins the dependency family accordingly. cite-placeholder
+The implementation follows the current Qiskit Machine Learning VQC interface and Qiskit 2.x-compatible primitive model.
 
 ## Evaluation
 
